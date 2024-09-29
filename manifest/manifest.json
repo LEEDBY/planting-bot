@@ -1,0 +1,7 @@
+{
+  "manifest": {
+    "url": "http://localhost:8000",
+    "name": "Tree Planting Bot",
+    "icon_url": "http://localhost:8000/icon.png"
+  }
+}

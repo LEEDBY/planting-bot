@@ -1,0 +1,28 @@
+{
+  "achievements": [
+    {
+      "id": 1,
+      "title": "Посадил рощу",
+      "description": "Посадите 10 деревьев.",
+      "condition": {
+        "type": "trees",
+        "value": 10
+      },
+      "reward": {
+        "xp": 20
+      }
+    },
+    {
+      "id": 2,
+      "title": "Амбассадор",
+      "description": "Пригласите 5 друзей.",
+      "condition": {
+        "type": "referrals",
+        "value": 5
+      },
+      "reward": {
+        "xp": 50
+      }
+    }
+  ]
+}
